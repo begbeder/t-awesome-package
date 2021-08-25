@@ -1,5 +1,5 @@
 {
-  "name": "t-awesome-package",
+  "name": "@begbeder/t-awesome-package",
   "version": "0.0.1",
   "description": "a first awesome package",
   "main": "dist/index.js",
