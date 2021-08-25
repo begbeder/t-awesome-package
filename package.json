@@ -1,0 +1,28 @@
+{
+  "name": "t-awesome-package",
+  "version": "0.0.1",
+  "description": "a first awesome package",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/begbeder/t-awesome-package.git"
+  },
+  "keywords": [
+    "github",
+    "packages",
+    "CI",
+    "deploy",
+    "github",
+    "actions"
+  ],
+  "author": "Begbed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/begbeder/t-awesome-package/issues"
+  },
+  "homepage": "https://github.com/begbeder/t-awesome-package#readme"
+}
