@@ -1,6 +1,6 @@
 {
   "name": "@begbeder/t-awesome-package",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "a first awesome package",
   "main": "dist/main.js",
   "scripts": {
